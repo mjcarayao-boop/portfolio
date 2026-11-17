@@ -45,13 +45,15 @@ export default function HomePage() {
           {/* Introduction */}
           <div className="max-w-2xl">
             <p className="mb-5 text-lg font-semibold uppercase tracking-widest text-green-600">
-              Welcome to My Personal Portfolio
+             Personal Portfolio
             </p>
 
-            <h1 className="text-6xl font-bold leading-tight text-green-950 lg:text-7xl">
-              Hi, I'm
-              <span className="text-green-700"> Justine</span>
-            </h1>
+            <h1 className="text-6xl font-bold leading-tight lg:text-white">
+  Hi, I'm
+  <span className="block text-6xl text-green-700">
+    Justine Carayao
+  </span>
+</h1>
 
             <div className="mt-5 h-1 w-24 rounded-full bg-green-700" />
 
